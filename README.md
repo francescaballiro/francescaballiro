@@ -24,6 +24,8 @@ Welcome to my GitHub! I'm a junior AI engineer with a background in Management E
 **[NutriCHOice](https://nutrichoiseedgemony.streamlit.app/)**  
 An AI assistant created to help **people with type 1 diabetes** manage carbohydrate intake (CHO) through smart, personalized meal generation. Built to respect nutritional goals and dietary restrictions, the app supports better daily choices through conversational interaction.
 
+![NutriCHOice Screenshot](https://github.com/francescaballiro/francescaballiro/blob/main/nutriCHOise.png)
+
 > 🧠 Technologies: Python, Streamlit, FAISS, Pandas, Sentence-BERT, Prompt Engineering  
 > 💡 Built during the Edgemony AI Bootcamp as a final team project
 
